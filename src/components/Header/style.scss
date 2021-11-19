@@ -1,0 +1,46 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    background-image:url(https://elements-video-cover-images-0.imgix.net/files/239489385/50mb+pre+image+oriental+plum+blossom+background.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=5bd3e4ce757aef19296f907a2558b953); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; ;
+    color: black;
+    padding: 1%;
+  }
+  
+  header h1{
+    font-size: 200%;
+  }
+  #logo{
+    max-width: 10%;
+  }
+  
+  header ul{
+    display: flex;
+    gap: 10%;
+  }
+  
+  header ul li{
+    list-style-type: none;
+  }
+  
+  header li a{
+    text-decoration: none;
+    color: black;
+    shape-outside: floor($number: 1);
+    padding: 5%;
+    border-radius: 5%;
+    font-weight: bold;
+    transition: all .3s ease-in-out;
+  }
+  
+  header li a:hover{
+    background: white;
+    color: black;
+  }

@@ -1,0 +1,28 @@
+#icon{
+  max-width: 5rem;
+}
+
+#card{
+    width: 80%;
+    height: 80%;
+    padding: 0.5%;
+    flex-wrap: wrap;
+    border-style: solid;
+    text-align: center;
+    display: inline-flex;
+    border-color: gray;
+    justify-content: center;
+    background-image: url(https://thumbs.dreamstime.com/b/japanese-old-yellow-paper-texture-vintage-background-japanese-old-yellow-traditional-paper-texture-vintage-background-114599100.jpg);
+  
+}
+#cardmae{
+  text-align: center;
+  padding-top: 5%;
+  justify-content: center;
+}
+#imagem{
+  max-width: 20%;
+}
+#teste{
+  display:column;
+}

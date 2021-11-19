@@ -1,0 +1,25 @@
+#titulo{
+    text-align: center;
+    font-size: 120%;
+    font-weight: bold;
+}
+#container{
+    width: 80%;
+    padding: 0.5%;
+    flex-wrap: wrap;
+    border-style: solid;
+    text-align: center;
+    display: inline-flex;
+    -webkit-align-items: center;
+    background-image: url(https://thumbs.dreamstime.com/b/japanese-old-yellow-paper-texture-vintage-background-japanese-old-yellow-traditional-paper-texture-vintage-background-114599100.jpg);
+    border-color: gray;
+}
+#foto{
+    max-width: 282px;
+}
+#teste{
+    text-align: center;
+}
+li{
+    font-size: 120%;
+  }
