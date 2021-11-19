@@ -5,17 +5,20 @@ header{
     flex-wrap: wrap;
     position: sticky;
     top: 0;
-    background-image:url(https://elements-video-cover-images-0.imgix.net/files/239489385/50mb+pre+image+oriental+plum+blossom+background.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=5bd3e4ce757aef19296f907a2558b953); 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; ;
-    color: black;
+    background-image:url("https://c4.wallpaperflare.com/wallpaper/661/830/542/one-piece-brook-one-piece-franky-one-piece-monkey-d-luffy-nami-one-piece-hd-wallpaper-preview.jpg"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:auto !important;
+    height:100%;
+    min-height:100%;
     padding: 1%;
   }
   
   header h1{
     font-size: 200%;
+    color: white;
+    text-shadow: 1px 1px 1px black;
   }
   #logo{
     max-width: 10%;
@@ -32,9 +35,9 @@ header{
   
   header li a{
     text-decoration: none;
-    color: black;
-    shape-outside: floor($number: 1);
+    color: white;
     padding: 5%;
+    text-shadow: 1px 1px 1px black;
     border-radius: 5%;
     font-weight: bold;
     transition: all .3s ease-in-out;
@@ -43,4 +46,5 @@ header{
   header li a:hover{
     background: white;
     color: black;
+    text-shadow: 1px 1px 1px gray;
   }

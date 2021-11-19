@@ -9,7 +9,7 @@ return(
         </div>
         <div id="teste">
         <div id="container">
-            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE3cRj0lu4R5Q/profile-displayphoto-shrink_800_800/0/1634499619274?e=1642636800&v=beta&t=CKKbsDqbkIIRx2a-9E0NttFrzdBhAJZ6DWaZHmsmBjw" id="foto" />                
+            <img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/258850675_4926546540709220_328337775230388535_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHbFS7vy_zLf6yvQbOysZeozpgO9QNQlJjOmA71A1CUmFbgmSmnKEHreHfp2Ytjk-j_9YmKq4Hmi4nQ_VjNCiuu&_nc_ohc=yvEZwGcPYgMAX9679EH&_nc_ht=scontent.fcgh10-1.fna&oh=0e43201f76654638e2eb0f503b37207d&oe=619DC6A2" id="foto" />                
                     <ul id="lista">
                         <li>Conhecimento intermediário em Estudo de API</li>   
                         <li>Experiência em projetos Agile (Scrum/ Kanban);</li>
