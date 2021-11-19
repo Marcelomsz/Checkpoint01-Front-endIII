@@ -3,7 +3,7 @@ import '../styles/App.scss';
 import Banner from '../components/Banner/banner';
 import Header from '../components/Header/header';
 import Footer from '../components/Footer/footer';
-import Marcelo from '../components/Projetos/projeto';
+import Cards from '../components/Projetos/projeto';
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
     <Header />
     <main>
       <Banner />
-      <Marcelo/>
+      <Cards/>
     </main>
     <Footer />
     </>
