@@ -4,7 +4,6 @@ import Banner from '../components/Banner/banner';
 import Header from '../components/Header/header';
 import Footer from '../components/Footer/footer';
 import Marcelo from '../components/Projetos/projeto';
-/*import randNum from '../components/blossom';*/
 
 function App() {
   return (
