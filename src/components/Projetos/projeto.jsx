@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import './style.scss';
 import React from 'react';
 
